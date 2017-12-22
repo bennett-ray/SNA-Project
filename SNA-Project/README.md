@@ -14,6 +14,9 @@ Hypothesis 3: in children's literature sentence construction is easier so it's m
 
 2. Genres:
 
+The downloaded archive with texts of there genres is available here: https://drive.google.com/file/d/1Z_EZpv5Qe4sO8cCN77mt5LJn3KNBCIXF/view?usp=sharing
+Unpack the archive to the folder 'Genres'
+
 - Articles (downloaded from az.lib.ru)
 - Essays (downloaded from az.lib.ru)
 - Narrative (long) (downloaded from az.lib.ru)
